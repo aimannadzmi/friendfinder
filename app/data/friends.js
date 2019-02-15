@@ -1,0 +1,3 @@
+$(".findfriend").on("click", function(){
+	
+});
